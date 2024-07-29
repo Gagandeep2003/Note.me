@@ -15,10 +15,7 @@ Before you begin, ensure you have met the following requirements:
 You have installed the latest version of Node.js.
 You have a basic understanding of JavaScript, HTML, and CSS.
 Installation
-Clone the repository:
 
-git clone https://github.com/Harshksingh1/Note.me/tree/main/Note.me
-Navigate to the project directory:
 
 #For REACT
 cd client
